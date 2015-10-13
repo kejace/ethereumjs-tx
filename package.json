@@ -15,7 +15,7 @@
   "license": "MPL-2.0",
   "dependencies": {
     "ethereum-common": "0.0.10",
-    "ethereumjs-util": "^1.4.0",
+    "ethereumjs-util": "kejace/ethereumjs-util",
     "secp256k1-browserify": "0.0.0"
   },
   "devDependencies": {
