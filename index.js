@@ -1,6 +1,6 @@
 const ethUtil = require('ethereumjs-util')
 const fees = require('ethereum-common')
-const ecdsa = require('secp256k1')
+const ecdsa = require('secp256k1-browserify')
 const BN = ethUtil.BN
 const rlp = ethUtil.rlp
 
